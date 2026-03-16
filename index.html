@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IV Scheduling Status Tracker</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>IV Scheduling Status Tracker</h1>
+    <p class="subtitle">NVC Immigrant Visa Scheduling Dates &mdash; Updated: <span id="last-updated">Loading...</span></p>
+  </header>
+
+  <main>
+    <!-- Hero: 3 summary cards -->
+    <section id="hero" class="hero">
+      <div class="card" data-category="immediate_relative">
+        <h2>Immediate Relative</h2>
+        <div class="card-stats">
+          <div class="stat">
+            <span class="stat-value" id="ir-current">-</span>
+            <span class="stat-label">Current</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="ir-backlog">-</span>
+            <span class="stat-label">Backlogged</span>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="card" data-category="family">
+        <h2>Family-Sponsored</h2>
+        <div class="card-stats">
+          <div class="stat">
+            <span class="stat-value" id="fam-current">-</span>
+            <span class="stat-label">Current</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="fam-backlog">-</span>
+            <span class="stat-label">Backlogged</span>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="card" data-category="employment">
+        <h2>Employment-Based</h2>
+        <div class="card-stats">
+          <div class="stat">
+            <span class="stat-value" id="emp-current">-</span>
+            <span class="stat-label">Current</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="emp-backlog">-</span>
+            <span class="stat-label">Backlogged</span>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Filters -->
+    <section id="filters" class="filters">
+      <div class="filter-group">
+        <label for="category-select">Visa Category</label>
+        <select id="category-select">
+          <option value="immediate_relative">Immediate Relative</option>
+          <option value="family">Family-Sponsored Preference</option>
+          <option value="employment">Employment-Based Preference</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="embassy-search">Embassy</label>
+        <input type="text" id="embassy-search" placeholder="Search embassy...">
+        <select id="embassy-select">
+          <option value="">All Embassies</option>
+        </select>
+      </div>
+    </section>
+
+    <!-- Detail view (shown when an embassy is selected) -->
+    <section id="detail" class="detail hidden">
+      <h2 id="detail-title">-</h2>
+      <div class="detail-stats">
+        <div class="detail-stat">
+          <span class="detail-label">Scheduling Date</span>
+          <span class="detail-value" id="detail-date">-</span>
+        </div>
+        <div class="detail-stat">
+          <span class="detail-label">Months Behind</span>
+          <span class="detail-value" id="detail-behind">-</span>
+        </div>
+        <div class="detail-stat">
+          <span class="detail-label">Rate of Progress</span>
+          <span class="detail-value" id="detail-rate">-</span>
+        </div>
+      </div>
+      <div class="chart-container">
+        <canvas id="trend-chart"></canvas>
+      </div>
+    </section>
+
+    <!-- Embassy table -->
+    <section id="table-section" class="table-section">
+      <h2>All Embassies &mdash; <span id="table-category-label">Immediate Relative</span></h2>
+      <table id="embassy-table">
+        <thead>
+          <tr>
+            <th data-sort="embassy">Embassy</th>
+            <th data-sort="date">Scheduling Date</th>
+            <th data-sort="behind">Months Behind</th>
+          </tr>
+        </thead>
+        <tbody id="embassy-tbody"></tbody>
+      </table>
+    </section>
+  </main>
+
+  <footer>
+    <p>Data source: <a href="https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/iv-wait-times.html" target="_blank" rel="noopener">U.S. Department of State</a></p>
+    <p>This is an unofficial tracker. Not affiliated with the U.S. government.</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/filters.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
