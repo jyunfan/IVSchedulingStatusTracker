@@ -29,4 +29,3 @@ Data is collected automatically once per day. The State Department typically upd
 ## Disclaimer
 
 This is an unofficial tracker and is not affiliated with the U.S. Department of State, the National Visa Center, or any U.S. government agency. Data is provided as-is for informational purposes only.
-# IVSchedulingStatusTracker
