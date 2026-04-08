@@ -2,6 +2,9 @@
 
 Track the National Visa Center (NVC) Immigrant Visa scheduling status across all U.S. embassies and consulates worldwide.
 
+Live data:
+https://jyunfan.github.io/IVSchedulingStatusTracker/
+
 ## What This Tracks
 
 The NVC publishes the **last day it is currently scheduling documentarily complete cases with visas available** for each embassy/consular post. This date tells applicants how far along NVC has progressed in scheduling interviews.
