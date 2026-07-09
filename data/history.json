@@ -1,5 +1,869 @@
 [
   {
+    "scrape_date": "2026-07-09",
+    "source_last_updated": "July 08, 2026",
+    "data": [
+      {
+        "embassy": "Abu Dhabi",
+        "employment": "2023-10",
+        "family": "2023-08",
+        "immediate_relative": "2025-03"
+      },
+      {
+        "embassy": "Abidjan",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-03"
+      },
+      {
+        "embassy": "Accra",
+        "employment": "2023-11",
+        "family": "2023-11",
+        "immediate_relative": "2024-03"
+      },
+      {
+        "embassy": "Auckland",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-04"
+      },
+      {
+        "embassy": "Addis Ababa",
+        "employment": "2026-07",
+        "family": "2025-07",
+        "immediate_relative": "2025-07"
+      },
+      {
+        "embassy": "Ashgabat",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Algiers",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Amman",
+        "employment": "2026-07",
+        "family": "2023-08",
+        "immediate_relative": "2025-10"
+      },
+      {
+        "embassy": "Amsterdam",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Ankara",
+        "employment": "2026-06",
+        "family": "2026-06",
+        "immediate_relative": "2026-06"
+      },
+      {
+        "embassy": "Antananarivo",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Asmara",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Asuncion",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Almaty",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Athens",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Bucharest",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Budapest",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Bern",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Baghdad",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2025-11"
+      },
+      {
+        "embassy": "Bridgetown",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-06"
+      },
+      {
+        "embassy": "Bishkek",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Belgrade",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Belmopan",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Mumbai (Bombay)",
+        "employment": "2026-06",
+        "family": "2026-03",
+        "immediate_relative": "2026-02"
+      },
+      {
+        "embassy": "Bangkok",
+        "employment": "2026-06",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Buenos Aires",
+        "employment": "2026-06",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Brussels",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Beirut",
+        "employment": "2026-07",
+        "family": "2024-10",
+        "immediate_relative": "2026-02"
+      },
+      {
+        "embassy": "Brazzaville",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Bratislava",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Bujumbura",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Ciudad Juarez",
+        "employment": "2023-07",
+        "family": "2025-08",
+        "immediate_relative": "2025-08"
+      },
+      {
+        "embassy": "null",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Chisinau",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Colombo",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Cotonou",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Cairo",
+        "employment": "2026-07",
+        "family": "2026-02",
+        "immediate_relative": "2026-02"
+      },
+      {
+        "embassy": "Bogota",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Casablanca",
+        "employment": "2026-07",
+        "family": "2026-01",
+        "immediate_relative": "2025-12"
+      },
+      {
+        "embassy": "Dublin",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Dushanbe",
+        "employment": "2026-07",
+        "family": "2025-06",
+        "immediate_relative": "2025-06"
+      },
+      {
+        "embassy": "Dhaka",
+        "employment": "2022-09",
+        "family": "2022-04",
+        "immediate_relative": "2025-11"
+      },
+      {
+        "embassy": "Djibouti",
+        "employment": "2026-07",
+        "family": "2025-12",
+        "immediate_relative": "2025-06"
+      },
+      {
+        "embassy": "Dakar",
+        "employment": "2026-07",
+        "family": "2026-06",
+        "immediate_relative": "2026-06"
+      },
+      {
+        "embassy": "Doha",
+        "employment": "2023-10",
+        "family": "2026-07",
+        "immediate_relative": "2024-10"
+      },
+      {
+        "embassy": "Dar Es Salaam",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2025-10"
+      },
+      {
+        "embassy": "Frankfurt",
+        "employment": "2026-05",
+        "family": "2026-07",
+        "immediate_relative": "2026-06"
+      },
+      {
+        "embassy": "Freetown",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Georgetown",
+        "employment": "2026-07",
+        "family": "2025-01",
+        "immediate_relative": "2026-03"
+      },
+      {
+        "embassy": "Guatemala City",
+        "employment": "2026-07",
+        "family": "2026-06",
+        "immediate_relative": "2026-04"
+      },
+      {
+        "embassy": "Guangzhou",
+        "employment": "2023-10",
+        "family": "2025-10",
+        "immediate_relative": "2026-03"
+      },
+      {
+        "embassy": "Guayaquil",
+        "employment": "2026-07",
+        "family": "2026-06",
+        "immediate_relative": "2026-04"
+      },
+      {
+        "embassy": "Hanoi",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Havana",
+        "employment": "2026-07",
+        "family": "2022-10",
+        "immediate_relative": "2025-12"
+      },
+      {
+        "embassy": "Ho Chi Minh City",
+        "employment": "2026-03",
+        "family": "2025-06",
+        "immediate_relative": "2026-04"
+      },
+      {
+        "embassy": "Helsinki",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Hamilton",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Hong Kong",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Harare",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Islamabad",
+        "employment": "2026-05",
+        "family": "2024-10",
+        "immediate_relative": "2025-10"
+      },
+      {
+        "embassy": "Jakarta",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Johannesburg",
+        "employment": "2023-08",
+        "family": "2026-07",
+        "immediate_relative": "2025-07"
+      },
+      {
+        "embassy": "Jerusalem",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Kabul",
+        "employment": null,
+        "family": null,
+        "immediate_relative": null
+      },
+      {
+        "embassy": "Kathmandu",
+        "employment": "2026-01",
+        "family": "2026-01",
+        "immediate_relative": "2025-12"
+      },
+      {
+        "embassy": "Kyiv",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Kigali",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-01"
+      },
+      {
+        "embassy": "Khartoum",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Kinshasa",
+        "employment": "2026-07",
+        "family": "2025-10",
+        "immediate_relative": "2025-05"
+      },
+      {
+        "embassy": "Kuala Lumpur",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Kampala",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Kingston",
+        "employment": "2026-04",
+        "family": "2024-03",
+        "immediate_relative": "2026-03"
+      },
+      {
+        "embassy": "Kuwait",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-03"
+      },
+      {
+        "embassy": "Lagos",
+        "employment": "2025-02",
+        "family": "2026-05",
+        "immediate_relative": "2025-02"
+      },
+      {
+        "embassy": "Libreville",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Lilongwe",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Ljubljana",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Lima",
+        "employment": "2026-07",
+        "family": "2025-08",
+        "immediate_relative": "2026-03"
+      },
+      {
+        "embassy": "London",
+        "employment": "2026-02",
+        "family": "2026-03",
+        "immediate_relative": "2026-04"
+      },
+      {
+        "embassy": "Lome",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "La Paz",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Luanda",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Lusaka",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Madrid",
+        "employment": "2026-03",
+        "family": "2026-03",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Manama",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Managua",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Manila",
+        "employment": "2023-05",
+        "family": "2025-09",
+        "immediate_relative": "2026-01"
+      },
+      {
+        "embassy": "Moscow",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Monrovia",
+        "employment": "2026-07",
+        "family": "2025-09",
+        "immediate_relative": "2024-10"
+      },
+      {
+        "embassy": "Muscat",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2025-06"
+      },
+      {
+        "embassy": "Montreal",
+        "employment": "2026-05",
+        "family": "2026-02",
+        "immediate_relative": "2026-04"
+      },
+      {
+        "embassy": "Montevideo",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Nicosia",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Naha",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Niamey",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Naples",
+        "employment": "2026-03",
+        "family": "2026-07",
+        "immediate_relative": "2026-02"
+      },
+      {
+        "embassy": "Nairobi",
+        "employment": "2024-02",
+        "family": "2024-11",
+        "immediate_relative": "2025-07"
+      },
+      {
+        "embassy": "Nassau",
+        "employment": "2026-07",
+        "family": "2023-03",
+        "immediate_relative": "2022-12"
+      },
+      {
+        "embassy": "New Delhi",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Ouagadougou",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Phnom Penh",
+        "employment": "2026-07",
+        "family": "2023-09",
+        "immediate_relative": "2025-11"
+      },
+      {
+        "embassy": "Praia",
+        "employment": "2026-07",
+        "family": "2026-02",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Panama City",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Prague",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Pristina",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Paris",
+        "employment": "2026-06",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Port Moresby",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Port Au Prince",
+        "employment": "2026-07",
+        "family": "2020-08",
+        "immediate_relative": "2021-06"
+      },
+      {
+        "embassy": "Port Of Spain",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Rio De Janeiro",
+        "employment": "2025-09",
+        "family": "2025-09",
+        "immediate_relative": "2026-06"
+      },
+      {
+        "embassy": "Riga",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Riyadh",
+        "employment": "2023-10",
+        "family": "2024-10",
+        "immediate_relative": "2026-01"
+      },
+      {
+        "embassy": "Reykjavik",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Rangoon",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Sarajevo",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Santo Domingo",
+        "employment": "2025-05",
+        "family": "2024-02",
+        "immediate_relative": "2025-03"
+      },
+      {
+        "embassy": "Seoul",
+        "employment": "2023-11",
+        "family": "2026-02",
+        "immediate_relative": "2026-06"
+      },
+      {
+        "embassy": "Singapore",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Skopje",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "San Jose",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "San Salvador",
+        "employment": "2026-07",
+        "family": "2025-08",
+        "immediate_relative": "2025-09"
+      },
+      {
+        "embassy": "Santiago",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Sofia",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Stockholm",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-04"
+      },
+      {
+        "embassy": "Suva",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-03"
+      },
+      {
+        "embassy": "Sydney",
+        "employment": "2026-01",
+        "family": "2026-07",
+        "immediate_relative": "2026-04"
+      },
+      {
+        "embassy": "Taipei",
+        "employment": "2025-06",
+        "family": "2025-08",
+        "immediate_relative": "2026-01"
+      },
+      {
+        "embassy": "Tallinn",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Tbilisi",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Tegucigalpa",
+        "employment": "2026-07",
+        "family": "2026-04",
+        "immediate_relative": "2025-11"
+      },
+      {
+        "embassy": "Tashkent",
+        "employment": "2026-07",
+        "family": "2026-01",
+        "immediate_relative": "2025-11"
+      },
+      {
+        "embassy": "Tirana",
+        "employment": "2026-07",
+        "family": "2026-01",
+        "immediate_relative": "2026-06"
+      },
+      {
+        "embassy": "Tokyo",
+        "employment": "2026-06",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Tunis",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Ulaanbataar",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Vancouver",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Vilnius",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Vienna",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Vientiane",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Warsaw",
+        "employment": "2026-06",
+        "family": "2026-06",
+        "immediate_relative": "2026-07"
+      },
+      {
+        "embassy": "Yaounde",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-05"
+      },
+      {
+        "embassy": "Yerevan",
+        "employment": "2025-03",
+        "family": "2026-07",
+        "immediate_relative": "2025-03"
+      },
+      {
+        "embassy": "Zagreb",
+        "employment": "2026-07",
+        "family": "2026-07",
+        "immediate_relative": "2026-07"
+      }
+    ]
+  },
+  {
     "scrape_date": "2026-06-05",
     "source_last_updated": "June 04, 2026",
     "data": [
