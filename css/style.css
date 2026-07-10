@@ -43,6 +43,11 @@ main {
   margin-bottom: 1.5rem;
 }
 
+main > .hero:last-child {
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+}
+
 .card {
   background: #fff;
   border-radius: 8px;
