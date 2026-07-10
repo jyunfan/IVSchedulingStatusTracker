@@ -4,7 +4,7 @@
 
 let currentData = null;
 let historyData = null;
-let currentCategory = "immediate_relative";
+let currentCategory = "employment";
 let currentEmbassy = "";
 let sortColumn = "behind";
 let sortAsc = false;
